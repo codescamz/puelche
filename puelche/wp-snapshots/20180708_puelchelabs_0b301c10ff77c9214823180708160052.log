@@ -1,0 +1,80 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 08/07/2018 4:00 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.40
+WORDPRESS:	4.9.7
+PHP INFO:	7.0.25 | SAPI: cgi-fcgi
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (512M default) 
+MEMORY STACK: 36MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+FILTERED: [] 
+RESPONSE: Ran from /usr/bin/mysqldump 
+TABLES: total:13 | filtered:0 | create:13 
+SQL CREATED: 20180708_puelchelabs_0b301c10ff77c9214823180708160052_database.sql 
+SQL FILE SIZE: 3.34MB (3498761) 
+SQL FILE TIME: 2018-07-08 16:00:57 
+SQL RUNTIME: 0.11 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /home1/naconworks/public_html/sites/puelche 
+ARCHIVE FILE: 20180708_puelchelabs_0b301c10ff77c9214823180708160052_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	68.19MB 
+STATS:	Dirs 446 | Files 2,768 
+SQL ADDED: 20180708_puelchelabs_0b301c10ff77c9214823180708160052_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3214
+    [filename] => /home1/naconworks/public_html/sites/puelche/wp-snapshots/tmp/20180708_puelchelabs_0b301c10ff77c9214823180708160052_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 37.92MB 
+ARCHIVE RUNTIME: 4.59 sec. 
+MEMORY STACK: 36MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [/home1/naconworks/public_html/sites/puelche/wp-snapshots/tmp/20180708_puelchelabs_0b301c10ff77c9214823180708160052_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 3.34MB 
+Installer File: 445.92KB 
+Archive File: 37.92MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 4.90 sec.
+PEAK PHP MEMORY USED: 38MB
+DONE PROCESSING => 20180708_puelchelabs 08/07/2018 4:01 pm
+ 

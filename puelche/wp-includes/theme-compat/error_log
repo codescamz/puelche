@@ -1,0 +1,8 @@
+[05-Nov-2018 16:23:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/naconworks/public_html/sites/puelche/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/naconworks/public_html/sites/puelche/wp-includes/theme-compat/embed.php on line 13
+[05-Nov-2018 20:02:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/naconworks/public_html/sites/puelche/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/naconworks/public_html/sites/puelche/wp-includes/theme-compat/embed.php on line 13
